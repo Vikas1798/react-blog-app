@@ -1,0 +1,14 @@
+.not-found button {
+    background-color: palevioletred;
+    color: white;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  .not-found h2{
+      font-size: 40px;
+  }
+  .not-found p{
+    font-size: 20px;
+  }

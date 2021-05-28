@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Farro', sans-serif;   
+}
+.navbar{
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    border-bottom: 2px solid #f2f2f2;
+    
+}
+.navbar h1{
+    font-size: 30px;
+}
+.links{
+    color: red;
+}
+.links a{
+    padding: 25px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 900; 
+    letter-spacing: 2px;;
+}
+.homebutton{
+    color: black;
+}
+.homebutton:hover{
+    color: skyblue;
+}
+.newblogbutton:hover{
+ background: #2E86C1 ;
+}
+.newblogbutton{
+    background-color: skyblue;
+    border-radius: 20px;
+    color: white;
+}
